@@ -1,16 +1,22 @@
-## Hi there 👋
+# Anna-Maria Broomes
 
-<!--
-**anna-maria-broomes/anna-maria-broomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Systems Architect · Calavoix**
 
-Here are some ideas to get you started:
+I work at the intersection of organizational behaviour, systems design, and applied analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work explores how organizations behave in practice: how formal structures interact with local adaptations, how operational patterns emerge across distributed systems, and how deviations accumulate over time.
+
+I founded [Calavoix](https://calavoix.com), where I develop analytical instruments for observing operational drift and understanding the conditions that shape organizational coherence.
+
+**Areas of interest**
+
+- Organizational behaviour and complex systems
+- Systems architecture and analytical instrumentation
+- Natural language processing and applied analytics
+- Operational drift, adaptation, and industrial coherence
+
+**Currently building**
+
+[Calavoix](https://github.com/solutions-calavoix) · [calavoix.com](https://calavoix.com)
+
+Montréal, Québec, Canada
